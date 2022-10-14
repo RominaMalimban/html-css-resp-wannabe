@@ -152,6 +152,18 @@ img {
     .col{
         margin-bottom: 50px;
     }
+
+    .steps {
+        margin-bottom: 0;
+        background-color: #eebbc3;
+        padding: 2rem 0;
+    }
+
+    .why-us {
+        margin-bottom: 0;
+        background-color: #222;
+        padding: 3rem 0;
+    }
 }
    
 
